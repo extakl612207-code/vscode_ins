@@ -4,3 +4,8 @@
     background-color: aquamarine;
     margin: 20px;
 }
+.box01{
+    width: 0;
+    height: 0;
+    background-color: blueviolet;
+}
